@@ -1,0 +1,6 @@
+{
+  "sobe": [{"broj":101,"tip":"JEDNOKREVETNA","cenaPoNoci":45.0,"zauzeta":false},{"broj":102,"tip":"DVOKREVETNA","cenaPoNoci":65.0,"zauzeta":true},{"broj":201,"tip":"APARTMAN","cenaPoNoci":120.0,"zauzeta":false},{"broj":109,"tip":"JEDNOKREVETNA","cenaPoNoci":76.0,"zauzeta":false},{"broj":208,"tip":"DVOKREVETNA","cenaPoNoci":55.0,"zauzeta":false},{"broj":202,"tip":"APARTMAN","cenaPoNoci":85.0,"zauzeta":true},{"broj":108,"tip":"DVOKREVETNA","cenaPoNoci":90.0,"zauzeta":false}],
+  "gosti": [{"ime":"Petar","prezime":"Petrovic","korisnickoIme":"petar"},{"ime":"Marko","prezime":"Markovic","korisnickoIme":"marko"},{"ime":"Milos","prezime":"Milosevic","korisnickoIme":"milos"},{"ime":"Natasa","prezime":"Jovanovic","korisnickoIme":"natasa"},{"ime":"Luka","prezime":"Lukovic","korisnickoIme":"luka"}],
+  "recepcioneri": [{"ime":"Ana","prezime":"Antic","korisnickoIme":"ana"}],
+  "rezervacije": [{"id":1,"brojSobe":102,"korisnickoImeGosta":"milos","od":"2025-12-09","do":"2025-12-15","ukupnaCena":390.0},{"id":2,"brojSobe":202,"korisnickoImeGosta":"natasa","od":"2025-12-04","do":"2025-12-16","ukupnaCena":1020.0}]
+}
